@@ -8,3 +8,5 @@ func main() {
 	input.Printhelp()
 	input.Komanda()
 }
+
+//
